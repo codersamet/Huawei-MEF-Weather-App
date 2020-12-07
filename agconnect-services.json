@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"5190090000028319995",
+		"product_id":"736430079244731168",
+		"client_id":"512470759981974592",
+		"client_secret":"6D2522F9322E458ABA1E768A3AA4B80DBAAB486A87895D71384678FB7826C726",
+		"project_id":"736430079244731168",
+		"app_id":"103439281",
+		"api_key":"CgB6e3x9Km31XlxxtcgXUtmI6oOXVbDz7RFyhP+aNoi3kPSnTWbM4+2WgWYN3R8bWdkV36CTraVEwN7mf85pUg/4",
+		"package_name":"com.huaweimef.weatherapp"
+	},
+	"configuration_version":"1.0"
+}
