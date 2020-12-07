@@ -1,6 +1,6 @@
 # Huawei Mobile Services & MEF University Competition Code
 
-The application was developed for YIAMUN'19 Huawei Mobile Services & MEF University Competition. It was used to record the entrance and exit times of the participants of the conference, to verify while providing access to lunch and tickets.
+The application was developed for Huawei Mobile Services & MEF University Competition.
 
 ## How is it works?
 
