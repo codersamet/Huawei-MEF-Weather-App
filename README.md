@@ -26,7 +26,7 @@ Run this command in the directory where the project is open, and this command lo
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/codersamet/Huawei-MEF-Weather-App/main/ss.jpg" />
+<img src="https://raw.githubusercontent.com/codersamet/Huawei-MEF-Weather-App/main/ss.jpg" height="500px"/>
 
 ## Usage
 
